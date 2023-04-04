@@ -21,8 +21,8 @@ studies of motifs. Yet, despite two types of IRs found in prokaryotes
 revolutionizing molecular biology (CRISPR-cas and restriction enzyme cutting
 sites), IRs have never been systematically studied in prokaryotic genomes.
 
-In SIRIG, we aim to develop efficient computational and statistical tools to
-systematically detect and characterize IRs in prokaryotic genomes. 
+In SIRIG, we aim to **develop efficient computational and statistical tools to
+systematically detect and characterize IRs in prokaryotic genomes**. 
 
 
 This project is funded by the CNRS.
