@@ -24,7 +24,13 @@ sites), IRs have never been systematically studied in prokaryotic genomes.
 In SIRIG, we aim to develop efficient computational and statistical tools to
 systematically detect and characterize IRs in prokaryotic genomes. 
 
+
+This project is funded by the CNRS.
+
 ## People
+
+Interested in joining us? We are looking for PhD students and interns. Feel
+free to reach out to us.
 
 <div class="block">
 {% for post in site.peoples %}
