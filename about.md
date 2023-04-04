@@ -1,8 +1,7 @@
 ---
 layout: page
 title: SIRIG
-subtitle: Systematic study of inverted repeated sequences in prokaryotic
-genomes
+subtitle: Systematic study of inverted repeated sequences in prokaryotic genomes
 permalink: /
 redirect_from:
   - /about/
