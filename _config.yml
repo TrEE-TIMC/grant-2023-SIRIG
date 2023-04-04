@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: ACRONYME
+title: SIRIG
 
 # Your name to show in the footer
 author: All of us!
@@ -14,7 +14,7 @@ author: All of us!
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CompBio@TrEE: https://tree-timc.github.io/compbio/
+  CompBio@TrEE: https://tree-timc.github.io/grant-2023-SIRIG/
 
 # --- Logo --- #
 
@@ -75,7 +75,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://tree-timc.github.io/"
+url-pretty: "https://tree-timc.github.io/grant-2023-SIRIG"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
