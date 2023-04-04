@@ -1,8 +1,9 @@
 ---
 title: "Vicky Lioy"
 name: "Vicky Lioy"
+image: vicky.jpeg
 collection: peoples
-permalink: /people/nelle_varoquaux
+permalink: /people/vicky
 position: "Permanent researcher"
 ---
 
