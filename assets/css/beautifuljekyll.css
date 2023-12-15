@@ -1167,21 +1167,20 @@ article a:hover {
 
 .people-index {
     padding-top: 25px;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
     padding-right: 50px;
     float: left;
+    width: 180px;
 }
 
 
 .people-picture {
     float: left;
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     overflow: hidden;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
+    text-align: center;
     z-index: 0;
 }
 
@@ -1239,7 +1238,11 @@ article a:hover {
 
 .people-name {
     font-weight: bold;
-    font-size: 110%;
+    font-size: 80%;
+    display: block;
+    width: 150px;
+    text-align: center;
+
 }
 
 .people-content a i {
